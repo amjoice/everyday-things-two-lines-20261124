@@ -11,8 +11,8 @@ Stdlib only, no network, no model calls, deterministic.
 import os
 
 ENTRY_TEXT = (
-    "Rain is a cloud wringing itself out like a wet sponge: once it has soaked up so many tiny drops that they are too heavy to float, it lets them fall.\n"
-    "The sponge part fits \u2014 both hold water until they are full and then drip \u2014 but nobody squeezes a cloud, and a sponge drinks from a puddle while a cloud grows its drops out of thin air."
+    "Rain is a cloud wringing itself out like a wet sponge: it gathers invisible vapour until its drops grow so heavy they cannot float, so they fall.\n"
+    "The sponge part fits \u2014 both hold water until they are full and then drip \u2014 but nobody squeezes a cloud, and a sponge drinks from a puddle while a cloud builds its drops from invisible vapour."
 )
 
 
